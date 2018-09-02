@@ -1,4 +1,4 @@
-package Utils;
+package org.vk_api_bot.Utils;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

@@ -1,6 +1,6 @@
-package Main;
+package org.vk_api_bot.Main;
 
-import Utils.LombokTest;
+import org.vk_api_bot.Utils.LombokTest;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class Main {
